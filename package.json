@@ -1,0 +1,19 @@
+{
+  "name": "eartnovacraft-md",
+  "version": "1.0.0",
+  "description": "Bot Oficial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^5.0.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "author": "Edwardofc",
+  "license": "MIT"
+}
